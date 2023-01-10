@@ -1,0 +1,17 @@
+# local package
+-e .
+
+# extra
+matplotlib
+numpy
+torch
+wget
+scikit_learn
+dvc
+dvc[gdrive]
+
+# cookiecutter external requirements
+click
+coverage
+flake8
+mypy
